@@ -801,6 +801,11 @@ noscript{
   );
   }
   
+  .coffe-btn .text{
+    font-size: 1.5rem;
+    margin-right: -20px;
+  }
+
   /* plus sign */
   .sign {
     width: 100%;
@@ -849,6 +854,7 @@ noscript{
     transform: translate(2px ,2px);
   }
 /* landing page code ends here */
+
 
 /* about section starts from here */
 .about-section-container{
